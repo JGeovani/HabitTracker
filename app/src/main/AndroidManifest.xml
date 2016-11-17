@@ -24,7 +24,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".HabitActivity"
+            android:name=".NewHabitActivity"
             android:label="@string/title_activity_habit"
             android:theme="@style/AppTheme.NoActionBar"
             android:parentActivityName=".MainActivity"
